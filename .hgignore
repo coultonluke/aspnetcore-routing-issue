@@ -1,0 +1,27 @@
+syntax: glob
+packages/**
+*/Bin/*
+*/bin/*
+*/Obj/*
+*/.vs/*
+*/obj/*
+*/packages/*
+*/pkg/*
+*/pkgobj/*
+*.gpstate
+*.pdb
+*.schemaview
+*.suo
+*.user
+*.vsmdi
+*dotCover*
+*dotcover*
+*_ReSharper*
+*Resharper*
+*resharper*
+*.log
+*.orig
+*.scssc
+*/node_modules/
+StyleCop.Cache
+WebEssentials2015-Settings.json
